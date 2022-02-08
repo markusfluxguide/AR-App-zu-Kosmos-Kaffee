@@ -1,0 +1,59 @@
+Start	Kosmos Kaffee AR
+Ernte deinen Kaffee!
+
+Tschechisch
+
+(Impressum)	Cosmos Coffee AR
+HarvGERMAN	ENGLISH	CZECH
+est your coffee!
+
+Czech
+
+(imprint)	Coffee AR
+Sklízejte kávu!
+
+Česká
+
+(tiráž)
+Tutorial: scan surgace	Finde einen flachen Untergrund (Tisch oder Boden).	Find a flat surface (table or floor).	Najděte si rovnou plochu (stůl nebo podlahu).
+Tutorial: place plant	Tippe um die Kaffeepflanze zu platzieren.	Tap to place your plant.
+	Klepnutím na položku umístěte rostlinu.
+Month display	1.Monat	1.month	1.měsíc
+Tutorial: Growing	Halte den Button gedrückt um die Pflanze wachsen zu lassen.	Press and hold to start growing your plant.	Stisknutím a podržením tlačítka zahájíte pěstování rostliny.
+Teaser 1	Weiter so! Die Pflanze wächst prächtig.	Keep going! Your plant is growing well.	Pokračujte! Vaše rostlina roste dobře.
+Tutorial: Rain	Die Pflanze braucht nun viel Wasser um Blüten und Früchte zu bilden. Halte den Regen-Button gedrückt um die Wassersäule auszufüllen und versuche die optimale Balance zu halten.	Your plant needs a lot of water to develop its flowers and fruits. Press the rain-button to fill the water column and find the perfect balance.	Vaše rostlina potřebuje k rozvoji květů a plodů hodně vody. Stisknutím tlačítka déšť naplňte vodní sloupec a najděte dokonalou rovnováhu.
+Teaser 2	Achte auf die optimale Regenmenge.	Pay attention to the rain column.	Věnujte pozornost dešťovému sloupci.
+Reward Game 1	Finde heraus ob der Wasserhaushalt ausgeglichen ist. Führe die Kaffeepflanze zur Blütezeit.	Did your plant receive enough water? Guide you plant to its flowering period.	Dostala vaše rostlina dostatek vody? Proveďte rostlinu obdobím květu.
+Teaser 3	Die Blüte beginnt.	The flowering starts.	Začíná kvetení.
+Teaser 4	Die Früchte beginnen sich zu bilden.	The fruits are starting to grow.	Plody začínají růst.
+Tutorial Sun	Die Pflanze braucht nun viel Sonne damit die Früchte reifen. Drücke den Sonnen-Button um den optimalen Sonnenbedarf zu erreichen.	Your plant needs a lot of sun to develop its fruits. Press the sun-button to achieve the perfect balance of sunshine.	Vaše rostlina potřebuje k vývoji plodů hodně slunce. Stisknutím tlačítka slunce dosáhnete dokonalé rovnováhy slunečního svitu.
+Reward Game 2	Finde heraus ob der Sonnenbedarf gut ausbalanciert ist. Führe die Kaffeepflanze zur Erntezeit.	Did your plant catch enough sun? Find out by guiding your plant to its harvest.	Měla vaše rostlina dostatek slunce? Zjistěte to tím, že svou Rostlinu povedete ke sklizni.
+
+Teaser 5	Die Kaffeekirschen sind so gut wie reif!	The coffee cherries are almost ripe.	Kávové třešně jsou téměř zralé.
+End	Geschafft!
+
+Diese Ernte ergibt
+Xxxg Rohkaffee
+(von max 500g)
+
+Das sind xx Tassen Kaffee.
+
+Neu starten
+Pflanze zeigen	Accomplished!
+
+Your harvest produces XXXg green coffee beans (of max. xxxg)
+
+That are xx cups of coffee.
+
+Restart
+Show plant	Splněno!
+
+Z vaší sklizně se získá XXXg zelených kávových zrn (z max. xxxg).
+
+Což je xx šálků kávy.
+
+Restartujte
+Zobrazit rostlinu
+
+
+0123456789

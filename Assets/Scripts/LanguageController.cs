@@ -128,12 +128,13 @@ public class LanguageController : MonoBehaviour
             planeManager.enabled = true;
 
             // slightly move text of reward screen
-            if(language == 1) {
+            if(language == 1 || language == 2) {
                 if(resultText != null) {
                     if(isInhouse) resultText.transform.position = new Vector2(resultText.transform.position.x-130, resultText.transform.position.y); 
                     else resultText.transform.position = new Vector2(resultText.transform.position.x-70, resultText.transform.position.y);
                 }
             }
+            
 
             MoveDevice.text = MoveDeviceText[language];
             TapToPlace.text = TapToPlaceText[language];
